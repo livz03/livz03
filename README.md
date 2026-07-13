@@ -35,3 +35,21 @@ Ambitious AI/ML Systems Developer with proven technical expertise spanning Gener
 | **Platforms & Tooling** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
 
 ---
+---
+
+### 🏅 Certifications, Hackathons & Research Orientations
+
+* **🏆 Developer Conferences & Hackathons**
+  * **On-Site Tech Hackathon Challenger (San Francisco, USA)**: Selected to engineer edge computer vision models under intense live performance thresholds.
+  * **Global Tech Forum Representative (Brussels, Belgium)**: Collaborated on discussions regarding cross-border AI policy, open-source compliance, and ecosystem automation.
+  * **In-Person Technical Forum Delegate (Butwal, Nepal)**: Shared local validation benchmarks on Nepali NLP and edge model scaling pipelines.
+  * **Innovation & Technical Challenge Finalist (Gunupur, India)**: Competed in deploying production-ready backend orchestration schemas under rigorous validation testing.
+
+* **🔬 Advanced Research Orientations**
+  * **IEEE Research Writing & Academic Publishing Track**: Completed deep orientation on writing indexed scientific literature, configuring ablation studies, and organizing data matrices for international technical evaluation.
+  * **Ministry of Education Academic Delegation**: Submitted foundational programmatic adjustment requests advocating for technical program flexibilities to accelerate practical AI application paths in Nepal.
+
+* **📜 Professional Tech Credentials**
+  * <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-2025-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> **AWS Certified Solutions Architect** – Amazon Web Services | 2025
+  * <img src="https://img.shields.io/badge/Oracle_Certified_Java_Developer-2024-F80000?style=flat-square&logo=oracle&logoColor=white" /> **Oracle Certified Java Developer** – Oracle | 2024
+  * <img src="https://img.shields.io/badge/Google_Data_Analytics-2024-4285F4?style=flat-square&logo=google&logoColor=white" /> **Google Data Analytics Professional Certificate** – Google | 2024
