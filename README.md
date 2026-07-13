@@ -21,27 +21,17 @@ Ambitious AI/ML Systems Developer with proven technical expertise spanning Gener
 
 ---
 
-### 🌐 End-to-End Edge & GenAI Infrastructure Architecture
+### 🛠️ Complete Technical Ecosystem
 
-```mermaid
-graph TD
-    %% Custom Styling
-    classDef ai fill:#0d1117,stroke:#00ff88,stroke-width:2px,color:#fff;
-    classDef ops fill:#0d1117,stroke:#38bdf8,stroke-width:2px,color:#fff;
-    classDef edge fill:#0d1117,stroke:#fb923c,stroke-width:2px,color:#fff;
+```💡 Production Paradigm: "If it cannot be monitored, containerized, and measured under load, it isn't production-ready."```
 
-    A[Raw Data Ingestion / Data Engineering] -->|DVC Tracking| B(Preprocessing & Feature Normalization)
-    B --> C{Pipeline Branching}
-    
-    %% GenAI Loop
-    C -->|Text/Context Protocols| D[Transformers / LangChain Orchestration]:::ai
-    D -->|Audio Latents| E[Neural Diffusion Pipeline]:::ai
-    E -->|Model Evaluation| F[MLflow & Model Registry]:::ops
+| Domain | Engineering Tools, Frameworks & Core Languages |
+| :--- | :--- |
+| **Programming Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> |
+| **AI Frameworks & Libraries** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-yellow?style=flat-square" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />[cite: 1] |
+| **MLOps & Infrastructure** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/DVC-131722?style=flat-square&logo=dvc&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />[cite: 1] |
+| **Databases & Caching** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" /> <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" /> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />[cite: 1] |
+| **Backend & Web Layers** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/.NET_ASP-512BD4?style=flat-square&logo=dotnet&logoColor=white" />[cite: 1] |
+| **Platforms & Tooling** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />[cite: 1] |
 
-    %% Edge Loop
-    C -->|Biomarker / Spatial Inputs| G[YOLO & Ensemble Classifiers]:::edge
-    G -->|Post-Training Optimization| H[TFLite Quantized Engine]:::edge
-    H -->|Local Hardware Execution| I[Sub-50ms Low-Latency Inference]:::edge
-    I -->|CI/CD Actions Artifacts| F
-    
-    F --> J[Live Production Deployment]:::ops
+---
