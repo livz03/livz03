@@ -1,45 +1,33 @@
-<!-- ══════════════════════════════════════════════════════════════════
-     LIVESH JHA — GitHub Profile README
-     Theme: dark (#0d1117) · Accent: #00ff88 · Junior AI Engineer
-     ═══════════════════════════════════════════════════════════════ -->
-
-<!-- ▌HEADER BANNER -->
+<!-- ════════════════════════════════════════════════════
+     LIVESH JHA · GitHub Profile README
+     FIX: header uses solid color (gradient+customColorList conflict was breaking it)
+     ════════════════════════════════════════════════ -->
+<!-- ▌HEADER BANNER (solid 0d1117 — most reliable on GitHub) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Livesh%20Jha&fontSize=68&fontColor=00ff88&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20LLMs%20%26%20NLP&descAlignY=58&descColor=cccccc&descSize=18" alt="Livesh Jha — AI Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=LIVESH%20JHA&fontSize=65&fontColor=00ff88&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20GenAI%20%7C%20LLMs%20%26%20NLP&descSize=20&descAlignY=60&descColor=bbbbbb" alt="Livesh Jha — AI Engineer" />
 </p>
-
 <!-- ▌TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=620&lines=Building+AI+that+actually+ships+%F0%9F%9A%80;LLMs+%E2%80%A2+Computer+Vision+%E2%80%A2+GenAI+%E2%80%A2+Nepali+NLP;Founder+%E2%80%94+Nepal%27s+first+student+AI+research+lab;Open+to+Junior+AI+%2F+ML+Engineer+roles+%F0%9F%8C%8D" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=640&lines=Building+AI+that+actually+ships+%F0%9F%9A%80;LLMs+%7C+Computer+Vision+%7C+GenAI+%7C+Nepali+NLP;Nepal%27s+first+student+AI+research+lab+founder;Open+to+Junior+AI+%2F+ML+Engineer+roles+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
-
-<!-- ▌PROFILE QUICK LINKS -->
+<!-- ▌STATUS & LINKS -->
 <p align="center">
-  <a href="mailto:liveshjha.aieng.348@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:liveshjha.aieng.348@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/livz03">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/livz03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://huggingface.co/livz03">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" />
-  </a>
+  <a href="https://huggingface.co/livz03"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-2dba4e?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-2dba4e?style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Nepal_(UTC%2B5:45)-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Nepal%20(UTC%2B5%3A45)-444444?style=for-the-badge" />
 </p>
-
 <br/>
-
----
 
 ## 👤 Profile
 
 ```
-🎓  BSc CSIT · Nepathya College (Tribhuvan University) · Nov 2023 – Nov 2027 · SGPA 3.45/4
+🎓  BSc CSIT · Nepathya College (Tribhuvan University) · Nov 2023 – Nov 2027 · 
 🔬  President — Nepathya Intelliverse AI Labs  (Nepal's first student AI research lab · 50+ contributors)
 ⚡  Chair — IEEE Nepathya College Student Branch  (5 SIGs · 100+ members)
 🏗️  Currently building: LLM pipelines · Nepali NLP · Generative Audio AI · Multi-agent systems
@@ -76,13 +64,16 @@ Beyond solo engineering, I founded **Nepal's first student AI research lab** and
 | **IEEE Publication Pipeline** | Research writing track targeting indexed journals | LangChain, internal lab projects | 🔵 In Progress |
 
 ---
-
-## 🛠️ Technical Stack
-
-<details>
-<summary><b>🔽 Expand Full Stack</b></summary>
-
-<br/>
+🛠️ Technical Ecosystem
+Domain	Technologies
+Programming Languages	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+AI · ML Frameworks	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-EC7600?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+LLMs · GenAI · Orchestration	<img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=flat-square" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=00ff88" /> <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=ff9900" /> <img src="https://img.shields.io/badge/AudioCraft-0467DF?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/MusicGen-0467DF?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/CrewAI-6236FF?style=flat-square&logo=python&logoColor=white" />
+MLOps · DevOps	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+Cloud Platforms	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+Databases · Caching	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" /> <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" /> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+Backend · Web · APIs	<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+Dev Tooling · Platforms	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 | Domain | Tools & Frameworks |
 |:---|:---|
@@ -99,23 +90,21 @@ Beyond solo engineering, I founded **Nepal's first student AI research lab** and
 
 ---
 
-## 📊 GitHub Activity
+📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=livz03&theme=dark&background=0d1117&border=00ff88&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=cccccc&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" width="48%" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=livz03&show_icons=true&theme=dark&bg_color=0d1117&border_color=00ff88&icon_color=00ff88&title_color=00ff88&text_color=ffffff&hide_border=false&count_private=true" alt="GitHub Stats" width="47%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=livz03&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8825&hide_border=true&radius=8" alt="Contribution Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=livz03&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8820&hide_border=true&radius=8" alt="Contribution Graph" width="98%" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=livz03&theme=darkhub&no-frame=true&column=7&margin-w=6" alt="Trophies" />
 </p>
 
-> 💡 **Coding pattern:** Heavy build cycles **Monday–Thursday** (research, model training, deployment work). Lighter on weekends — code review, reading papers, planning next sprint.
+💡 Coding pattern: Heavy research & build cycles Monday – Thursday. Lighter Fridays & weekends — code review, paper reading, sprint planning.
 
 ---
 
