@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="mailto:liveshjha.aieng.348@gmail.com"><img src="https://img.shields.io/badge/Email-liveshjha.aieng.348%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://huggingface.co/YOUR_HF_USERNAME"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models%20%26%20Spaces-yellow?style=flat-square" /></a>
+  <a href="https://linkedin.com/in/livz03"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://huggingface.co/livz03"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models%20%26%20Spaces-yellow?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/Location-Imadol%2C%20Nepal-lightgrey?style=flat-square" />
 </p>
 
